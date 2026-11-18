@@ -1,0 +1,6 @@
+,temperature_c,demand_mw,supply_mw,loadshedding_hours,outage_count
+temperature_c,1.0,0.97,0.9,0.6,0.57
+demand_mw,0.97,1.0,0.95,0.59,0.56
+supply_mw,0.9,0.95,1.0,0.36,0.36
+loadshedding_hours,0.6,0.59,0.36,1.0,0.93
+outage_count,0.57,0.56,0.36,0.93,1.0
